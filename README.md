@@ -1,4 +1,4 @@
-User authentication/authorization 
+<h1>User authentication/authorization </h1>
 
 Problem Definition
 
@@ -14,15 +14,20 @@ Requirements
 Functional
 
 I as a user can register myself
+
 I as a admin/user can login
+
 I as a admin can change any user information
+
 I as a admin can add new admin
 
 
 Non-fuctional
 
 Include prerequisites and steps to launch in README
+
 The API should be implemented using .NET Core framework (ideally the newest stable version)
+
 The API must have some sort of persistance layer(MSSQL)
 
 
